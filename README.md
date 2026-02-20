@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm K Somasekhar Naidu</h1>
+<br><h1 align="center">Hi 👋, I'm K Somasekhar </h1>
 <h3 align="center">🚀 Passionate Developer | Python Enthusiast | MSc AI Student 🤖</h3>
-
----
-
-## 🌟 About Me
+<br><br>
+ 🌟 About Me
 
 - 🎓 Currently pursuing **MSc in Artificial Intelligence (AI)**
 - 🔭 I’m currently working on **Python & Web Development Projects**
@@ -12,16 +10,16 @@
 - 🎯 Goal: To become a **Top AI & Software Engineer**
 - ⚡ Fun fact: I debug more than I sleep 😄
 
----
-
-## 🎓 Education
+<br>
+<br>
+🎓 Education
 
 - 🧠 **MSc in Artificial Intelligence (AI)**
 - 💻 Strong focus on Machine Learning, Data Science & Intelligent Systems
 
----
-
-## 🛠️ Tech Stack
+<br>
+<br>
+🛠️ Tech Stack
 
 <p align="center">
 
@@ -45,18 +43,15 @@
 <img width="12" />
 
 </p>
-
----
-
-## 🔥 GitHub Streak
+<br><br>
+🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KSomasekhar07&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🌍 Connect With Me
+<br><br>
+🌍 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/k-somasekhar-naidu-59728b376/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="30" alt="linkedin logo"  />
@@ -72,20 +67,9 @@
   </a>
 </div>
 
----
-
-# 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KSomasekhar07/KSomasekhar07/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 💬 Developer Quote
+<br><br>
+💬 Developer Quote
 
 > "Code. Break. Debug. Repeat. 🚀"
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
